@@ -8,7 +8,7 @@ Dans votre choix de projet, créer un cahier des charges (Technical Specificatio
 
 - Cas d'utilisations
 - Class Diagram
-- Sequence Diagram
+- Sequence Diagram (Optionnel si ce n'est pas néscessaire au projet)
 
 ## Architecture:
 

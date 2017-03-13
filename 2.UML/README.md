@@ -1,5 +1,9 @@
 # [UML](https://fr.wikipedia.org/wiki/UML_(informatique))
 
+## Documentation
+
+http://www.omg.org/spec/UML/2.5/
+
 ### Diagrammes de Structures
 - Classes
 - Objets
@@ -19,5 +23,5 @@
 
 # Outil 
 
-Visual Paradigm
+[Visual Paradigm](https://www.visual-paradigm.com/)
 
