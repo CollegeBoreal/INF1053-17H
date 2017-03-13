@@ -1,4 +1,4 @@
- # The Greater 6ix 
+# The Greater 6ix 
 Description : 
 
 # Diagrames 
@@ -9,6 +9,8 @@ Description :
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/ClassDiagram.PNG) 
 
 ## Sequence Diagram :
+Embaucher : 
+* 
 
 # Architecture
 ## Tiers : 
@@ -23,4 +25,5 @@ Description :
 Les systemes qui seront: 
 * 1 serveur 
    * Contient l'application et la base de donnes
-* Angular2 et TS - il sera gere sur le Cloud 
+* Angular2 - il sera gere sur le Cloud 
+* Utiliser MongoDB 
