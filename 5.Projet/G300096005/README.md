@@ -13,10 +13,11 @@ Description :
 # Architecture
 ## Tiers : 
 3 tiers. Il y aura le U.I, le backend et la base de donnes.
+
+## Schema conceptuel (U.I, BackEnd, BigData) : 
 * Le U.I pour tout ce qui sera represente graphiquement 
 * Le backend pour faire les transactions et verifier le statut de "LogIn" ou s'il faut "S'enregistrer"
 * La base de donnes pour stoker les informations des villes, les photos et les prix
-## Schema conceptuel (U.I, BackEnd, BigData) : 
 
 ## Systemes : 
 
