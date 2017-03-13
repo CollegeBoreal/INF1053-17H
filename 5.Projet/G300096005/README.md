@@ -20,4 +20,6 @@ Description :
 * La base de donnes pour stoker les informations des villes, les photos et les prix
 
 ## Systemes : 
-
+Les systemes qui seront: 
+* 1 serveur 
+ ** Contient l'application et la base de donnes 
