@@ -7,3 +7,13 @@
 ## Class Diagram :
 ![alt tag](CD.png) 
 
+## Sequence Diagram :
+
+# Architecture
+## Tiers : 
+3 tiers. Il y aura le U.I, le backend et la base de donnes.
+
+## Schema conceptuel (U.I, BackEnd, BigData) : 
+
+
+## Systemes : 
