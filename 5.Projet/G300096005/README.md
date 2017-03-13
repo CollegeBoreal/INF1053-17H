@@ -1,4 +1,4 @@
-# The Greater 6ix 
+ # The Greater 6ix 
 Description : 
 
 # Diagrames 
@@ -22,4 +22,4 @@ Description :
 ## Systemes : 
 Les systemes qui seront: 
 * 1 serveur 
- ** Contient l'application et la base de donnes 
+   * Contient l'application et la base de donnes 
