@@ -8,6 +8,7 @@
 ![alt tag](CD.png) 
 
 ## Sequence Diagram :
+![alt tag](SD.png) 
 
 # Architecture
 ## Tiers : 
@@ -17,3 +18,4 @@
 
 
 ## Systemes : 
+
