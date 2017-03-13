@@ -2,8 +2,8 @@
 
 # Diagrames 
 ## Cas d'utilisation (use case) :
-![alt tag](UCD.PNG)
+![alt tag](UCD.png)
 
 ## Class Diagram :
-![alt tag](CD.PNG) 
+![alt tag](CD.png) 
 
