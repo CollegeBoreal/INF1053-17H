@@ -23,4 +23,4 @@ Description :
 Les systemes qui seront: 
 * 1 serveur 
    * Contient l'application et la base de donnes
-* Nativescript et il sera gere sur le Cloud 
+* Angular2 et TS - il sera gere sur le Cloud 
