@@ -1,3 +1,9 @@
 # YellowDucky Chat
 
-![alt tag](mon-image.png)
+# Diagrames 
+## Cas d'utilisation (use case) :
+![alt tag](UCD.PNG)
+
+## Class Diagram :
+![alt tag](CD.PNG) 
+
