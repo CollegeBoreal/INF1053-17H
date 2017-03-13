@@ -18,5 +18,5 @@
 
 
 ## Systemes : 
-* 1 server
+* 1 server (VMware)
 
