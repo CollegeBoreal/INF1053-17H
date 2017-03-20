@@ -12,7 +12,7 @@ envoyer les messages
 ![alt tag](SD.png) 
 
 Créer et rejoindre (chatroom)
-![alt tag](SD1.png) 
+![alt tag](SD1.PNG) 
 
 # Architecture
 ## Tiers : 
