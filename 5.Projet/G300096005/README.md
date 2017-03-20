@@ -9,7 +9,7 @@ Description :
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/ClassDiagram.PNG) 
 
 ## Sequence Diagram :
-[alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/SequenceDiagram.PNG)  
+![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/SequenceDiagram.PNG)  
 
 # Architecture
 ## Tiers : 
