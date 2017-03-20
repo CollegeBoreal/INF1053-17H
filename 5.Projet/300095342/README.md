@@ -8,10 +8,10 @@
 ![alt tag](CD.png) 
 
 ## Sequence Diagram :
-envoyer les messages
+envoyer les messages 
 ![alt tag](SD.png) 
 
-Créer et rejoindre (chatroom)
+Créer et rejoindre (chatroom) 
 ![alt tag](SD1.PNG) 
 
 # Architecture
