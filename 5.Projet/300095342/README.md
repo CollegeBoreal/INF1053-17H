@@ -19,4 +19,8 @@
 
 ## Systemes : 
 * 1 server (VMware)
-
+  * WebSocket
+  * Angular2
+  * Mongo
+  * Docker
+  
