@@ -28,3 +28,9 @@
   * WebSocket
   * Docker
   
+  ## Repo
+  https://github.com/LiebelJ/YellowDuckyChat
+  
+  ## Site
+  http://www.yellowducky.co
+  https://www.yellowducky.co
