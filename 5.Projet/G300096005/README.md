@@ -9,7 +9,7 @@ Description :
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/ClassDiagram.PNG) 
 
 ## Sequence Diagram :
-### CLient achete une photo:
+### Client fait l'achat une photo:
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/SequenceDiagram.PNG)  
 
 # Architecture
