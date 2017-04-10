@@ -27,3 +27,5 @@ Les systemes qui seront:
    * Contient l'application et la base de donnes
 * Angular2 - il sera gere sur le Cloud 
 * Utiliser MongoDB 
+
+https://github.com/garyjo/TheGreater6ix
