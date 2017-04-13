@@ -1,40 +1,73 @@
-Silhouette Seed Template
-=====================================
+# Example application using play 2.5 and reactive mongo
 
-The Silhouette Seed project is an Activator template which shows how [Silhouette](https://github.com/mohiva/play-silhouette) can be implemented in a Play Framework application. It's a starting point which can be extended to fit your needs.
+# Configure MongoDB
 
-## Example
+Just change it in application.conf
+```
+mongodb.uri = "mongodb://localhost/persons"
+```
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# Run it
+```
+sbt run
+```
+# Cities
 
-(The "Build App" phase will take a few minutes)
+Cities controller uses a model, showing how simple it is in Play to parse json data from the clients
 
-Or you can find a running example of this template under the following URL: https://play-silhouette-seed.herokuapp.com/
+## Add some cities
 
-## Features
+```
+curl -H "Content-Type: application/json" -X POST -d '{"name":"london","population": 8539000}' http://localhost:9000/api/cities/
+curl -X "POST" http://localhost:9000/api/cities/add\?name\=Paris&population\=2244000
+```
+## Add some cities in bulk
 
-* Sign Up
-* Sign In (Credentials)
-* Social Auth (Facebook, Google+, VK, Twitter, Xing, Yahoo)
-* Two-factor authentication with Clef
-* Dependency Injection with Guice
-* Publishing Events
-* Avatar service
-* Remember me functionality
-* Password reset/change functionality
-* Account activation functionality
-* Email sending and auth token cleanup
-* [Security headers](https://www.playframework.com/documentation/2.4.x/SecurityHeaders)
-* [CSRF Protection](https://www.playframework.com/documentation/2.4.x/ScalaCsrf)
+```
+curl -H "Content-Type: application/json" -X POST -d '[{"name":"tokyo","population": 13350000}, {"name":"osaka","population": 2665000}]' http://localhost:9000/api/cities/bulk
+```
 
-## Documentation
+## Search cities
 
-Consult the [Silhouette documentation](http://silhouette.mohiva.com/docs) for more information. If you need help with the integration of Silhouette into your project, don't hesitate and ask questions in our [mailing list](https://groups.google.com/forum/#!forum/play-silhouette) or on [Stack Overflow](http://stackoverflow.com/questions/tagged/playframework).
+```
+curl http://localhost:9000/api/cities?name=Paris
+```
 
-## Activator
+## See some errors
 
-See https://typesafe.com/activator/template/play-silhouette-seed
+curl -H "Content-Type: application/json" -X POST -d '{"name":"london"}' http://localhost:9000/api/cities/
 
-# License
+curl -H "Content-Type: application/json" -X POST -d '{"name":"london", "population": "x"}' http://localhost:9000/api/cities/
 
-The code is licensed under [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0).
+curl -H "Content-Type: application/json" -X POST -d '[{"name":"unknown"}]' http://localhost:9000/api/cities/bulk
+
+
+# Persons
+
+Person controller does not use a model, following the Coast to coast Json approach
+
+## Add some persons
+
+```
+curl -H "Content-Type: application/json" -X POST -d '{"name":"jason","age": 12}' http://localhost:9000/api/persons/
+curl -X "POST" http://localhost:9000/api/persons/add\?name\=Jason%20Voorhees\&age\=31
+```
+
+## Add some persons in bulk
+
+```
+curl -H "Content-Type: application/json" -X POST -d '[{"name":"jacob","age": 35}, {"name":"rohit","age": 27}, {"name":"federico","age": 31}, {"name":"oliver","age": 33}]' http://localhost:9000/api/persons/bulk
+```
+
+Test invalid formats
+```
+curl -H "Content-Type: application/json" -X POST -d '[{"name": "pepe"}]' http://localhost:9000/api/persons/bulk
+```
+
+
+## Search persons
+
+```
+curl http://localhost:9000/api/persons?name=jason
+```
+

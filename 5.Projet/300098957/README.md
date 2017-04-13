@@ -3,7 +3,13 @@
 
 ## backend
 
+```
+$ activator new backend play-reactive-mongo-db
+```
 
+```
+$ docker run -p 27017:27017 --name mongo -d mongo mongod --smallfiles
+```
 
 ## frontend
 
