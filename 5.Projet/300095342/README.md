@@ -32,5 +32,5 @@
   https://github.com/LiebelJ/YellowDuckyChat
   
   ## Site
-  http://www.yellowducky.co
-  https://www.yellowducky.co
+  http://aws.yellowducky.co:8080  
+  https://aws.yellowducky.co:9443
