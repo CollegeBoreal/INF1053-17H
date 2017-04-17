@@ -1,6 +1,6 @@
 # YellowDucky Chat
 
-# Diagrames 
+# Diagrammes 
 ## Cas d'utilisation (use case) :
 ![alt tag](UCD.png)
 
