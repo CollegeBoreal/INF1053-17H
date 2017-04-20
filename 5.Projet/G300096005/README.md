@@ -28,6 +28,6 @@ Les systemes qui seront:
 * Angular2 - il sera gere sur le Cloud 
 * Utiliser MongoDB 
 
-https://github.com/garyjo/TheGreater6ix
+UML : https://github.com/garyjo/TheGreater6ix
 
-http://www.theGreater6ix.com
+Project : http://www.thegreater6ix.com:8080/
