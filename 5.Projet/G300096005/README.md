@@ -1,7 +1,7 @@
 # The Greater 6ix 
 Description : 
 
-# Diagrames 
+# Diagrammes 
 ## Cas d'utilisation (use case) :
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/UseCase.PNG)
 
@@ -9,6 +9,7 @@ Description :
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/ClassDiagram.PNG) 
 
 ## Sequence Diagram :
+### Client fait l'achat une photo:
 ![alt tag](https://github.com/CollegeBoreal/INF1053-17H/blob/master/5.Projet/G300096005/SequenceDiagram.PNG)  
 
 # Architecture
@@ -26,3 +27,7 @@ Les systemes qui seront:
    * Contient l'application et la base de donnes
 * Angular2 - il sera gere sur le Cloud 
 * Utiliser MongoDB 
+
+UML : https://github.com/garyjo/TheGreater6ix
+
+Project : http://www.thegreater6ix.com:8080/

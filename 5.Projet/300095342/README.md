@@ -1,6 +1,6 @@
 # YellowDucky Chat
 
-# Diagrames 
+# Diagrammes 
 ## Cas d'utilisation (use case) :
 ![alt tag](UCD.png)
 
@@ -28,3 +28,9 @@
   * WebSocket
   * Docker
   
+  ## Repo
+  https://github.com/LiebelJ/YellowDuckyChat
+  
+  ## Site
+  http://aws.yellowducky.co:8080  
+  https://aws.yellowducky.co:9443
