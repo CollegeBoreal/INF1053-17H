@@ -1,6 +1,8 @@
-# Test
+# Test (Révision)
 
 Creer un repertoire avec votre ID
+
+## Devoir 
 
 Pour Gary: Un programme retournant une multiplication a la francaise  
 
