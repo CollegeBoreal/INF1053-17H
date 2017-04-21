@@ -2,10 +2,9 @@
 
 | Theme | Du       | Sujet                                  |
 |------:|:--------:|:---------------------------------------|  
-|0.Test |2017-02-13|[0.Test](0.Test#Devoir)                        |
-|Examun1|2017-02-27|BlackBoard                              |
+|0.Test |2017-01-13|[0.Test](0.Test#Devoir)                        |
+|4.MVC  |2017-02-09|[4.MVC](4.MVC#Devoir)                        |
 |Canarie|2017-02-27|[Ouvrir compte ATIR](http://fluidsurveys.com/s/DAIRsubmission/langfr-ca/) |
-|Slick  |2017-03-23|Connecter INF1051 6.ORM a MySQL         |
-|       |          |Changer: build.sbt et application.conf  |
+|AWS    |2017-03-27|[Ouvrir compte AWS](https://github.com/CollegeBoreal/Tutoriels/tree/master/5.AWS) |
 
 
