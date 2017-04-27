@@ -2,6 +2,10 @@
 
 Dans votre choix de projet, créer un cahier des charges (Technical Specifications) ou vous expliquez les différentes taches.
 
+utiliser comme exemple :
+
+https://github.com/setrar/angular-cli-media-element
+
 # Le cahier des charges doit comprendre:
 
 ## Diagrammes:
