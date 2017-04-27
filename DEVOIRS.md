@@ -1,11 +1,14 @@
 # DEVOIRS
 
+|Noté| Theme | Du       | Sujet                                  |
+|----|------:|:--------:|:---------------------------------------|  
+| *  |0.Test |2017-01-13|[0.Test](0.Test#Devoir)                        |
+| *  |6.ORM  |2017-02-09|[6.ORM](https://github.com/CollegeBoreal/INF1051-17H/tree/master/6.ORM)                        |
+
+
+## Créer un compte 
 | Theme | Du       | Sujet                                  |
-|------:|:--------:|:---------------------------------------|  
-|0.Test |2017-02-13|[0.Test](0.Test)                        |
-|Examun1|2017-02-27|BlackBoard                              |
 |Canarie|2017-02-27|[Ouvrir compte ATIR](http://fluidsurveys.com/s/DAIRsubmission/langfr-ca/) |
-|Slick  |2017-03-23|Connecter INF1051 6.ORM a MySQL         |
-|       |          |Changer: build.sbt et application.conf  |
+|AWS    |2017-03-27|[Ouvrir compte AWS](https://github.com/CollegeBoreal/Tutoriels/tree/master/5.AWS) |
 
 

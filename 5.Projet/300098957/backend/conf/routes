@@ -1,0 +1,13 @@
+
+POST     /api/cities/add                controllers.CityController.create(name: String, population: Int)
+POST     /api/cities/                   controllers.CityController.createFromJson
+POST     /api/cities/bulk               controllers.CityController.createBulkFromJson
+
+GET      /api/cities                    controllers.CityController.findByName(name: String)
+
+POST     /api/persons/add               controllers.PersonController.create(name: String, age: Int)
+POST     /api/persons/                  controllers.PersonController.createFromJson
+POST     /api/persons/bulk              controllers.PersonController.createBulkFromJson
+
+GET      /api/persons                   controllers.PersonController.findByName(name: String)
+

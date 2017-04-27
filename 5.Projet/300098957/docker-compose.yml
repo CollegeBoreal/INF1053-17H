@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+   webapp:
+     image: play-reactive-mongo-db:1.0-SNAPSHOT
+     ports:
+       - "8080:9000"
+     depends_on:
+       - db
+
+   db:
+     image: mongo
+    ersion: '2'
+
+services:
+   webapp:
+     image: play-reactive-mongo-db:1.0-SNAPSHOT
+     ports:
+       - "8080:9000"
+     depends_on:
+       - db
+
+   db:
+     image: mongo
+    
