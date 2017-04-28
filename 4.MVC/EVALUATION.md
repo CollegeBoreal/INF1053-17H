@@ -11,7 +11,7 @@
 
   1) faire une liste
   2) compilation réussie
-  3) Originalité (Nativescript, Electron, ...)
+  3) Originalité (NavBar, Electron, ...)
 
 ## Notation 
 
