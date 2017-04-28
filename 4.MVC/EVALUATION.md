@@ -5,19 +5,20 @@
 
 > Traduire Pokelist en .ANGULAR CLI [ANG]
 
-  faire une liste
+  1) créer un projet Angular
 
 > Implementation  [IMP]
 
-  * compilation réussie
-  * Installation sur un mobile
+  1) faire une liste
+  2) compilation réussie
+  3) Originalité (Nativescript, Electron, ...)
 
 ## Notation 
 
 (1 Faible - 5 Tres Bon)
 
-| ID  |ANG1|IMP1|IMP2|IMP3|IMP4|IMP4| Points (6*5)                                                                                |
-|----:|:--:|:--:|:--:|:--:|:--:|:--:|---------------------------------------------------------------------------------------------|  
-|     |    |    |    |    |    |    | Comments                                                                                    |
-| 6ix |  4 | 5  | 5  | 4  |  5 |  2 |                                                                                             |  
-| IR  |  5 | 5  | 0  | 5  |  5 |  3 |                                                                                             |  
+| ID  |ANG1|IMP1|IMP2|IMP3| Points (4*5)                                                                                |
+|----:|:--:|:--:|:--:|:--:|---------------------------------------------------------------------------------------------|  
+|     |    |    |    |    | Comments                                                                                    |
+| 6ix |  5 | 5  | 5  | 0  |                                                                                             |  
+| IR  |  5 | 5  | 5  | 0  |                                                                                             |  
